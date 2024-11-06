@@ -2,202 +2,202 @@
 # 片段文件将保存在 Quantumult X 目录下的 Profiles 子目录中。
 # 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
 #正弈
-HOST-SUFFIX, jnczyl.top
-HOST-KEYWORD, jnczyl
+DOMAIN-SUFFIX, jnczyl.top, xptv
+DOMAIN-KEYWORD, jnczyl, xptv
 #秋名山见
-HOST-SUFFIX, maiyoux.com
-HOST-KEYWORD, maiyoux
+DOMAIN-SUFFIX, maiyoux.com, xptv
+DOMAIN-KEYWORD, maiyoux, xptv
 #腐剧
-HOST-SUFFIX, fuju2024.cc
-HOST-KEYWORD, fuju2024
+DOMAIN-SUFFIX, fuju2024.cc, xptv
+DOMAIN-KEYWORD, fuju2024, xptv
 #木偶盘
-HOST-SUFFIX,mogg.top
-HOST-KEYWORD, mogg
+DOMAIN-SUFFIX,mogg.top, xptv
+DOMAIN-KEYWORD, mogg, xptv
 #厂长资源（直连）
-HOST-KEYWORD, czzy
-HOST-KEYWORD, czys
-HOST-SUFFIX, czzy88.com
-HOST-SUFFIX, czzy22.com
-HOST-SUFFIX, czzy66.com
-HOST-SUFFIX, cz233.com
-HOST-SUFFIX, czys.top
-HOST-SUFFIX, czzy77.com
-HOST, www.czys.pro
+DOMAIN-KEYWORD, czzy, xptv
+DOMAIN-KEYWORD, czys, xptv
+DOMAIN-SUFFIX, czzy88.com, xptv
+DOMAIN-SUFFIX, czzy22.com, xptv
+DOMAIN-SUFFIX, czzy66.com, xptv
+DOMAIN-SUFFIX, cz233.com, xptv
+DOMAIN-SUFFIX, czys.top, xptv
+DOMAIN-SUFFIX, czzy77.com, xptv
+DOMAIN, www.czys.pro
 #厂长&低端播放
-HOST-SUFFIX, cz01.site
-HOST-SUFFIX, larksuitecdn.com
-HOST-SUFFIX, fotile.com
-HOST-SUFFIX, pstatp.com
-HOST-SUFFIX, ugdtimg.com
-HOST-SUFFIX, ctyunxs.cn
-HOST, wxsnsencsvp.wxs.qq.com
+DOMAIN-SUFFIX, cz01.site, xptv
+DOMAIN-SUFFIX, larksuitecdn.com, xptv
+DOMAIN-SUFFIX, fotile.com, xptv
+DOMAIN-SUFFIX, pstatp.com, xptv
+DOMAIN-SUFFIX, ugdtimg.com, xptv
+DOMAIN-SUFFIX, ctyunxs.cn, xptv
+DOMAIN, wxsnsencsvp.wxs.qq.com, xptv
 #绝缘
-HOST-SUFFIX, yiys05.com
-HOST-KEYWORD, yiys05
+DOMAIN-SUFFIX, yiys05.com, xptv
+DOMAIN-KEYWORD, yiys05, xptv
 #欧乐
-HOST-SUFFIX, olehdtv.com
-HOST-KEYWORD, olehdtv
+DOMAIN-SUFFIX, olehdtv.com, xptv
+DOMAIN-KEYWORD, olehdtv, xptv
 #独播库（直连）
-HOST-KEYWORD, gboku
-HOST-SUFFIX, gboku.com
+DOMAIN-KEYWORD, gboku, xptv
+DOMAIN-SUFFIX, gboku.com, xptv
 #在线之家（直连）
-HOST-KEYWORD, zxzj
-HOST-SUFFIX, zxzja.com
-HOST-SUFFIX, zxzjhd.com
-HOST-SUFFIX, zxzj.pro
+DOMAIN-KEYWORD, zxzj, xptv
+DOMAIN-SUFFIX, zxzja.com, xptv
+DOMAIN-SUFFIX, zxzjhd.com, xptv
+DOMAIN-SUFFIX, zxzj.pro, xptv
 #AGE动漫
-HOST-SUFFIX, agedm.org
+DOMAIN-SUFFIX, agedm.org, xptv
 #ギリギリ动漫
-HOST-SUFFIX, m3u8.girigirilove.com
-HOST-KEYWORD, girigirilove
+DOMAIN-SUFFIX, m3u8.girigirilove.com, xptv
+DOMAIN-KEYWORD, girigirilove, xptv
 #4k-av
-HOST-SUFFIX, 4k-av.com
-HOST-KEYWORD, 4k-av
+DOMAIN-SUFFIX, 4k-av.com, xptv
+DOMAIN-KEYWORD, 4k-av, xptv
 #韩剧看看（直连）
-HOST-SUFFIX, hanjukankan.com
-HOST-KEYWORD, hanjukankan
+DOMAIN-SUFFIX, hanjukankan.com, xptv
+DOMAIN-KEYWORD, hanjukankan, xptv
 #烧火电影
-HOST-KEYWORD, saohuo
-HOST-SUFFIX, saohuo.yv
+DOMAIN-KEYWORD, saohuo, xptv
+DOMAIN-SUFFIX, saohuo.yv, xptv
 #瓜子
 #anfuns
-HOST-SUFFIX, anfuns.org
-HOST-KEYWORD, anfuns
+DOMAIN-SUFFIX, anfuns.org, xptv
+DOMAIN-KEYWORD, anfuns, xptv
 #爱壹帆（直连）
-HOST-SUFFIX, iyf.tv
-HOST-KEYWORD, iyf
+DOMAIN-SUFFIX, iyf.tv, xptv
+DOMAIN-KEYWORD, iyf, xptv
 #麻豆社
-HOST-KEYWORD, madouse
-HOST-SUFFIX, madouse.la
-HOST-SUFFIX, madouse.club
+DOMAIN-KEYWORD, madouse, xptv
+DOMAIN-SUFFIX, madouse.la, xptv
+DOMAIN-SUFFIX, madouse.club, xptv
 #玩偶姐姐
-HOST-SUFFIX, hongkongdollvideo.com
-HOST-KEYWORD, hongkongdollvideo
+DOMAIN-SUFFIX, hongkongdollvideo.com, xptv
+DOMAIN-KEYWORD, hongkongdollvideo, xptv
 #Hanime1
-HOST-KEYWORD, hanime1
-HOST-SUFFIX, hanime1.me
+DOMAIN-KEYWORD, hanime1, xptv
+DOMAIN-SUFFIX, hanime1.me, xptv
 #云盘资源（直连）
-HOST-KEYWORD, yunpan
-HOST-SUFFIX, yunpan1.cc
+DOMAIN-KEYWORD, yunpan, xptv
+DOMAIN-SUFFIX, yunpan1.cc, xptv
 #360
-HOST-SUFFIX, 360zy.com
-HOST-KEYWORD, 360zy
+DOMAIN-SUFFIX, 360zy.com, xptv
+DOMAIN-KEYWORD, 360zy, xptv
 #墨斗
-HOST-SUFFIX, mdzyapi.com
-HOST-KEYWORD, mdzyapi
+DOMAIN-SUFFIX, mdzyapi.com, xptv
+DOMAIN-KEYWORD, mdzyapi, xptv
 #金鹰
-HOST-SUFFIX, jinyingzy.com
-HOST-KEYWORD, jinyingzy
+DOMAIN-SUFFIX, jinyingzy.com, xptv
+DOMAIN-KEYWORD, jinyingzy, xptv
 #宝片
-HOST-SUFFIX, zpsps.com
-HOST-KEYWORD, zpsps
+DOMAIN-SUFFIX, zpsps.com, xptv
+DOMAIN-KEYWORD, zpsps, xptv
 #丫丫
-HOST-SUFFIX, yayazy.net
-HOST-KEYWORD, yayazy
+DOMAIN-SUFFIX, yayazy.net, xptv
+DOMAIN-KEYWORD, yayazy, xptv
 #索尼资源（直连）
-HOST-SUFFIX, suoniapi.com
-HOST, v3.sxzyhuij.com
-HOST, v3.suonizy-youku.com
-HOST, v8.sxzyhuij.com
-HOST, snzypic.com
-HOST, v8.suonizy-youku.com
-HOST-KEYWORD, suoniapi
-HOST-KEYWORD, sxzyhuij
-HOST-KEYWORD, suonizy-youku.com
+DOMAIN-SUFFIX, suoniapi.com, xptv
+DOMAIN, v3.sxzyhuij.com, xptv
+DOMAIN, v3.suonizy-youku.com, xptv
+DOMAIN, v8.sxzyhuij.com, xptv
+DOMAIN, snzypic.com, xptv
+DOMAIN, v8.suonizy-youku.com, xptv
+DOMAIN-KEYWORD, suoniapi, xptv
+DOMAIN-KEYWORD, sxzyhuij, xptv
+DOMAIN-KEYWORD, suonizy-youku.com, xptv
 #ikun
-HOST, ikunzyapi.com
-HOST-KEYWORD, ikunzyapi
+DOMAIN, ikunzyapi.com, xptv
+DOMAIN-KEYWORD, ikunzyapi, xptv
 #非凡资源（直连）
-HOST-SUFFIX, ffzyapi.com
-HOST-KEYWORD, ffzyapi
+DOMAIN-SUFFIX, ffzyapi.com, xptv
+DOMAIN-KEYWORD, ffzyapi, xptv
 #量子资源（直连）
-HOST-SUFFIX, lziapi.com
-HOST-KEYWORD, lziapi
+DOMAIN-SUFFIX, lziapi.com, xptv
+DOMAIN-KEYWORD, lziapi, xptv
 #暴风
-HOST-SUFFIX, bfzyapi.com
-HOST-KEYWORD, bfzyapi
+DOMAIN-SUFFIX, bfzyapi.com, xptv
+DOMAIN-KEYWORD, bfzyapi, xptv
 #快车资源（直连）
-HOST-SUFFIX, kczyapi.com
-HOST-KEYWORD, kczyapi
+DOMAIN-SUFFIX, kczyapi.com, xptv
+DOMAIN-KEYWORD, kczyapi, xptv
 #闪电资源（直连）
-HOST-SUFFIX, sdzyapi.com
-HOST-KEYWORD, sdzyapi
+DOMAIN-SUFFIX, sdzyapi.com, xptv
+DOMAIN-KEYWORD, sdzyapi, xptv
 #卧龙资源（直连）
-HOST-SUFFIX, wolongzyw.com
-HOST-KEYWORD, wolongzyw
+DOMAIN-SUFFIX, wolongzyw.com, xptv
+DOMAIN-KEYWORD, wolongzyw, xptv
 #飘花影院（直连）
-HOST-SUFFIX, ahjiuman.com
-HOST-KEYWORD, ahjiuman
+DOMAIN-SUFFIX, ahjiuman.com, xptv
+DOMAIN-KEYWORD, ahjiuman, xptv
 #魔都动漫（直连）
-HOST-SUFFIX, moduapi.cc
-HOST-KEYWORD, moduapi
+DOMAIN-SUFFIX, moduapi.cc, xptv
+DOMAIN-KEYWORD, moduapi, xptv
 #新浪资源（直连）
-HOST-SUFFIX, xinlangapi.com
-HOST-KEYWORD, xinlangapi
+DOMAIN-SUFFIX, xinlangapi.com, xptv
+DOMAIN-KEYWORD, xinlangapi, xptv
 #森林资源
-HOST-SUFFIX, slapibf.com
-HOST-KEYWORD, slapibf
+DOMAIN-SUFFIX, slapibf.com, xptv
+DOMAIN-KEYWORD, slapibf, xptv
 #探探
-HOST-SUFFIX, apittzy.com
-HOST-KEYWORD, apittzy
+DOMAIN-SUFFIX, apittzy.com, xptv
+DOMAIN-KEYWORD, apittzy, xptv
 #奥斯卡资源
-HOST-KEYWORD, aosikazy
-HOST-SUFFIX, aosikazy.com
+DOMAIN-KEYWORD, aosikazy, xptv
+DOMAIN-SUFFIX, aosikazy.com, xptv
 #老鸭
-HOST-SUFFIX, apiluzy.com
-HOST-KEYWORD, apiluzy
+DOMAIN-SUFFIX, apiluzy.com, xptv
+DOMAIN-KEYWORD, apiluzy, xptv
 #91麻豆
-HOST-SUFFIX, 91md.me
-HOST-KEYWORD, 91md
+DOMAIN-SUFFIX, 91md.me, xptv
+DOMAIN-KEYWORD, 91md, xptv
 #易看资源
-HOST-KEYWORD, yikanapi
-HOST-SUFFIX, yikanapi.com
+DOMAIN-KEYWORD, yikanapi, xptv
+DOMAIN-SUFFIX, yikanapi.com, xptv
 #皇冠资源
-HOST-KEYWORD, hghhh
-HOST-SUFFIX, hghhh.com
+DOMAIN-KEYWORD, hghhh, xptv
+DOMAIN-SUFFIX, hghhh.com, xptv
 #番号
-HOST-SUFFIX, fhapi9.com
-HOST-KEYWORD, fhapi9
+DOMAIN-SUFFIX, fhapi9.com, xptv
+DOMAIN-KEYWORD, fhapi9, xptv
 #鲨鱼资源
-HOST-KEYWORD, shayuapi
-HOST-SUFFIX, shayuapi.com
+DOMAIN-KEYWORD, shayuapi, xptv
+DOMAIN-SUFFIX, shayuapi.com, xptv
 #KK写真
-HOST-SUFFIX, kkzy.me
-HOST-KEYWORD, kkzy
+DOMAIN-SUFFIX, kkzy.me, xptv
+DOMAIN-KEYWORD, kkzy, xptv
 #Alvin资源
-HOST-KEYWORD, lbapiby
-HOST-SUFFIX, lbapiby.com
+DOMAIN-KEYWORD, lbapiby, xptv
+DOMAIN-SUFFIX, lbapiby.com, xptv
 #好色资源
-HOST-KEYWORD, haosezyw
-HOST-SUFFIX, haosezyw.com
+DOMAIN-KEYWORD, haosezyw, xptv
+DOMAIN-SUFFIX, haosezyw.com, xptv
 #最色资源
-HOST-KEYWORD, zszyw
-HOST-SUFFIX, zszyw.top
+DOMAIN-KEYWORD, zszyw, xptv, xptv
+DOMAIN-SUFFIX, zszyw.top, xptv, xptv
 #色色虎资源
-HOST-KEYWORD, apisesehuzy
-HOST-SUFFIX, apisesehuzy.com
+DOMAIN-KEYWORD, apisesehuzy, xptv
+DOMAIN-SUFFIX, apisesehuzy.com, xptv
 #黄瓜资源
-HOST-KEYWORD, zy018
-HOST-SUFFIX, zy018.com
+DOMAIN-KEYWORD, zy018, xptv
+DOMAIN-SUFFIX, zy018.com, xptv
 #玉兔
-HOST-SUFFIX, apiyutu.com
-HOST-KEYWORD, apiyutu
+DOMAIN-SUFFIX, apiyutu.com, xptv
+DOMAIN-KEYWORD, apiyutu, xptv
 #辣椒资源
-HOST-SUFFIX, apilj.com
-HOST-KEYWORD, apilj
+DOMAIN-SUFFIX, apilj.com, xptv
+DOMAIN-KEYWORD, apilj, xptv
 #奶香香资源
-HOST-SUFFIX, Naixxzy.com
-HOST-KEYWORD, Naixxzy
+DOMAIN-SUFFIX, Naixxzy.com, xptv
+DOMAIN-KEYWORD, Naixxzy, xptv
 #精品
-HOST-SUFFIX, jingpinx.com
-HOST-KEYWORD, jingpinx
+DOMAIN-SUFFIX, jingpinx.com, xptv
+DOMAIN-KEYWORD, jingpinx, xptv
 #甜蜜资源
-HOST-SUFFIX, timizy10.cc
-HOST-KEYWORD, timizy10.com
+DOMAIN-SUFFIX, timizy10.cc, xptv
+DOMAIN-KEYWORD, timizy10.com, xptv
 #草榴资源
-HOST-KEYWORD, caoliuzyw
-HOST-SUFFIX, caoliuzyw.com
+DOMAIN-KEYWORD, caoliuzyw, xptv
+DOMAIN-SUFFIX, caoliuzyw.com, xptv
 #老色逼
-HOST-SUFFIX, apilsbzy1.com
-HOST-KEYWORD, apilsbzy1
+DOMAIN-SUFFIX, apilsbzy1.com, xptv
+DOMAIN-KEYWORD, apilsbzy1, xptv
  
