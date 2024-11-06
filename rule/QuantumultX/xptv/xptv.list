@@ -1,0 +1,203 @@
+# 分流规则配置片段包含若干条分流规则；可通过资源引用的方式使用。
+# 片段文件将保存在 Quantumult X 目录下的 Profiles 子目录中。
+# 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
+#正弈
+HOST-SUFFIX, jnczyl.top
+HOST-KEYWORD, jnczyl
+#秋名山见
+HOST-SUFFIX, maiyoux.com
+HOST-KEYWORD, maiyoux
+#腐剧
+HOST-SUFFIX, fuju2024.cc
+HOST-KEYWORD, fuju2024
+#木偶盘
+HOST-SUFFIX,mogg.top
+HOST-KEYWORD, mogg
+#厂长资源（直连）
+HOST-KEYWORD, czzy
+HOST-KEYWORD, czys
+HOST-SUFFIX, czzy88.com
+HOST-SUFFIX, czzy22.com
+HOST-SUFFIX, czzy66.com
+HOST-SUFFIX, cz233.com
+HOST-SUFFIX, czys.top
+HOST-SUFFIX, czzy77.com
+HOST, www.czys.pro
+#厂长&低端播放
+HOST-SUFFIX, cz01.site
+HOST-SUFFIX, larksuitecdn.com
+HOST-SUFFIX, fotile.com
+HOST-SUFFIX, pstatp.com
+HOST-SUFFIX, ugdtimg.com
+HOST-SUFFIX, ctyunxs.cn
+HOST, wxsnsencsvp.wxs.qq.com
+#绝缘
+HOST-SUFFIX, yiys05.com
+HOST-KEYWORD, yiys05
+#欧乐
+HOST-SUFFIX, olehdtv.com
+HOST-KEYWORD, olehdtv
+#独播库（直连）
+HOST-KEYWORD, gboku
+HOST-SUFFIX, gboku.com
+#在线之家（直连）
+HOST-KEYWORD, zxzj
+HOST-SUFFIX, zxzja.com
+HOST-SUFFIX, zxzjhd.com
+HOST-SUFFIX, zxzj.pro
+#AGE动漫
+HOST-SUFFIX, agedm.org
+#ギリギリ动漫
+HOST-SUFFIX, m3u8.girigirilove.com
+HOST-KEYWORD, girigirilove
+#4k-av
+HOST-SUFFIX, 4k-av.com
+HOST-KEYWORD, 4k-av
+#韩剧看看（直连）
+HOST-SUFFIX, hanjukankan.com
+HOST-KEYWORD, hanjukankan
+#烧火电影
+HOST-KEYWORD, saohuo
+HOST-SUFFIX, saohuo.yv
+#瓜子
+#anfuns
+HOST-SUFFIX, anfuns.org
+HOST-KEYWORD, anfuns
+#爱壹帆（直连）
+HOST-SUFFIX, iyf.tv
+HOST-KEYWORD, iyf
+#麻豆社
+HOST-KEYWORD, madouse
+HOST-SUFFIX, madouse.la
+HOST-SUFFIX, madouse.club
+#玩偶姐姐
+HOST-SUFFIX, hongkongdollvideo.com
+HOST-KEYWORD, hongkongdollvideo
+#Hanime1
+HOST-KEYWORD, hanime1
+HOST-SUFFIX, hanime1.me
+#云盘资源（直连）
+HOST-KEYWORD, yunpan
+HOST-SUFFIX, yunpan1.cc
+#360
+HOST-SUFFIX, 360zy.com
+HOST-KEYWORD, 360zy
+#墨斗
+HOST-SUFFIX, mdzyapi.com
+HOST-KEYWORD, mdzyapi
+#金鹰
+HOST-SUFFIX, jinyingzy.com
+HOST-KEYWORD, jinyingzy
+#宝片
+HOST-SUFFIX, zpsps.com
+HOST-KEYWORD, zpsps
+#丫丫
+HOST-SUFFIX, yayazy.net
+HOST-KEYWORD, yayazy
+#索尼资源（直连）
+HOST-SUFFIX, suoniapi.com
+HOST, v3.sxzyhuij.com
+HOST, v3.suonizy-youku.com
+HOST, v8.sxzyhuij.com
+HOST, snzypic.com
+HOST, v8.suonizy-youku.com
+HOST-KEYWORD, suoniapi
+HOST-KEYWORD, sxzyhuij
+HOST-KEYWORD, suonizy-youku.com
+#ikun
+HOST, ikunzyapi.com
+HOST-KEYWORD, ikunzyapi
+#非凡资源（直连）
+HOST-SUFFIX, ffzyapi.com
+HOST-KEYWORD, ffzyapi
+#量子资源（直连）
+HOST-SUFFIX, lziapi.com
+HOST-KEYWORD, lziapi
+#暴风
+HOST-SUFFIX, bfzyapi.com
+HOST-KEYWORD, bfzyapi
+#快车资源（直连）
+HOST-SUFFIX, kczyapi.com
+HOST-KEYWORD, kczyapi
+#闪电资源（直连）
+HOST-SUFFIX, sdzyapi.com
+HOST-KEYWORD, sdzyapi
+#卧龙资源（直连）
+HOST-SUFFIX, wolongzyw.com
+HOST-KEYWORD, wolongzyw
+#飘花影院（直连）
+HOST-SUFFIX, ahjiuman.com
+HOST-KEYWORD, ahjiuman
+#魔都动漫（直连）
+HOST-SUFFIX, moduapi.cc
+HOST-KEYWORD, moduapi
+#新浪资源（直连）
+HOST-SUFFIX, xinlangapi.com
+HOST-KEYWORD, xinlangapi
+#森林资源
+HOST-SUFFIX, slapibf.com
+HOST-KEYWORD, slapibf
+#探探
+HOST-SUFFIX, apittzy.com
+HOST-KEYWORD, apittzy
+#奥斯卡资源
+HOST-KEYWORD, aosikazy
+HOST-SUFFIX, aosikazy.com
+#老鸭
+HOST-SUFFIX, apiluzy.com
+HOST-KEYWORD, apiluzy
+#91麻豆
+HOST-SUFFIX, 91md.me
+HOST-KEYWORD, 91md
+#易看资源
+HOST-KEYWORD, yikanapi
+HOST-SUFFIX, yikanapi.com
+#皇冠资源
+HOST-KEYWORD, hghhh
+HOST-SUFFIX, hghhh.com
+#番号
+HOST-SUFFIX, fhapi9.com
+HOST-KEYWORD, fhapi9
+#鲨鱼资源
+HOST-KEYWORD, shayuapi
+HOST-SUFFIX, shayuapi.com
+#KK写真
+HOST-SUFFIX, kkzy.me
+HOST-KEYWORD, kkzy
+#Alvin资源
+HOST-KEYWORD, lbapiby
+HOST-SUFFIX, lbapiby.com
+#好色资源
+HOST-KEYWORD, haosezyw
+HOST-SUFFIX, haosezyw.com
+#最色资源
+HOST-KEYWORD, zszyw
+HOST-SUFFIX, zszyw.top
+#色色虎资源
+HOST-KEYWORD, apisesehuzy
+HOST-SUFFIX, apisesehuzy.com
+#黄瓜资源
+HOST-KEYWORD, zy018
+HOST-SUFFIX, zy018.com
+#玉兔
+HOST-SUFFIX, apiyutu.com
+HOST-KEYWORD, apiyutu
+#辣椒资源
+HOST-SUFFIX, apilj.com
+HOST-KEYWORD, apilj
+#奶香香资源
+HOST-SUFFIX, Naixxzy.com
+HOST-KEYWORD, Naixxzy
+#精品
+HOST-SUFFIX, jingpinx.com
+HOST-KEYWORD, jingpinx
+#甜蜜资源
+HOST-SUFFIX, timizy10.cc
+HOST-KEYWORD, timizy10.com
+#草榴资源
+HOST-KEYWORD, caoliuzyw
+HOST-SUFFIX, caoliuzyw.com
+#老色逼
+HOST-SUFFIX, apilsbzy1.com
+HOST-KEYWORD, apilsbzy1
+ 
