@@ -1,7 +1,7 @@
 # 分流规则配置片段包含若干条分流规则；可通过资源引用的方式使用。
 #anki
-DOMAIN-SUFFIX, ankimemory.com.com
-DOMAIN-KEYWORD, ankimemory.com
+DOMAIN-SUFFIX, ankimemory.com
+DOMAIN-KEYWORD, ankimemory
 #囧次元
 DOMAIN-SUFFIX, jocy2024.com
 DOMAIN-KEYWORD, jocy2024
